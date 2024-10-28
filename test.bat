@@ -1,2 +1,4 @@
-git push Valombre
+git add .
+git commit -m "version"
+git push
 pause

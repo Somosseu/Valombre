@@ -1,6 +1,6 @@
 {
   "name": "Custommap",
-  "version": "MU-6",
+  "version": "MU-7",
   "url": null,
   "files": [
     {
@@ -1322,6 +1322,50 @@
     {
       "id": 927001031,
       "file": ".git/logs/refs/remotes/Valombre/master"
+    },
+    {
+      "id": 927001032,
+      "file": ".git/COMMIT_EDITMSG"
+    },
+    {
+      "id": 927001033,
+      "file": ".git/objects/2c/7f6e035b0ef3944b2bff80066ea85c735571a3"
+    },
+    {
+      "id": 927001034,
+      "file": ".git/objects/38/68efeb9734ce6490965b258bcc8383c5e2425e"
+    },
+    {
+      "id": 927001035,
+      "file": ".git/objects/5a/8d37125aa71762d81186f5eda9ac1246ea75ce"
+    },
+    {
+      "id": 927001036,
+      "file": ".git/objects/63/dc4f5ea1ccdea8d28a0e221127a783a6fd0a38"
+    },
+    {
+      "id": 927001037,
+      "file": ".git/objects/6a/0b2b6cc779d93764c3ea217d9758146d190fc8"
+    },
+    {
+      "id": 927001038,
+      "file": ".git/objects/c6/d53caef6853602351f4880aaaf5e1ca1455557"
+    },
+    {
+      "id": 927001039,
+      "file": ".git/objects/cf/59cc76b7e3ad277b756342a8e7400a7aedd271"
+    },
+    {
+      "id": 927001040,
+      "file": ".git/objects/d2/45882993eb8f36ef1aca9b7fe81bb616eb6464"
+    },
+    {
+      "id": 927001041,
+      "file": ".git/objects/d9/57fd188dbc10a2a74cd31f9982e1cfcc0c4a28"
+    },
+    {
+      "id": 927001042,
+      "file": ".git/objects/fe/ce3bd936a7c828c45e9ba89424ab75078a1519"
     }
   ]
 }
