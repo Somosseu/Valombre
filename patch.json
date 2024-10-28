@@ -1,0 +1,803 @@
+{
+  "name": "Custommap",
+  "version": "MU-5",
+  "url": null,
+  "files": [
+    {
+      "id": 16397,
+      "file": "world/maps/Custommap/Custommap.wdl"
+    },
+    {
+      "id": 1949764,
+      "file": "world/maps/Custommap/Custommap.wdt"
+    },
+    {
+      "id": 927000705,
+      "file": "world/maps/Custommap/Custommap_2_2.adt"
+    },
+    {
+      "id": 927000706,
+      "file": "world/maps/Custommap/Custommap_2_2_obj0.adt"
+    },
+    {
+      "id": 927000707,
+      "file": "world/maps/Custommap/Custommap_2_2_obj1.adt"
+    },
+    {
+      "id": 927000708,
+      "file": "world/maps/Custommap/Custommap_2_2_tex0.adt"
+    },
+    {
+      "id": 927000709,
+      "file": "world/maps/Custommap/Custommap_2_3.adt"
+    },
+    {
+      "id": 927000710,
+      "file": "world/maps/Custommap/Custommap_2_3_obj0.adt"
+    },
+    {
+      "id": 927000711,
+      "file": "world/maps/Custommap/Custommap_2_3_obj1.adt"
+    },
+    {
+      "id": 927000712,
+      "file": "world/maps/Custommap/Custommap_2_3_tex0.adt"
+    },
+    {
+      "id": 927000713,
+      "file": "world/maps/Custommap/Custommap_2_4.adt"
+    },
+    {
+      "id": 927000714,
+      "file": "world/maps/Custommap/Custommap_2_4_obj0.adt"
+    },
+    {
+      "id": 927000715,
+      "file": "world/maps/Custommap/Custommap_2_4_obj1.adt"
+    },
+    {
+      "id": 927000716,
+      "file": "world/maps/Custommap/Custommap_2_4_tex0.adt"
+    },
+    {
+      "id": 927000717,
+      "file": "world/maps/Custommap/Custommap_3_2.adt"
+    },
+    {
+      "id": 927000718,
+      "file": "world/maps/Custommap/Custommap_3_2_obj0.adt"
+    },
+    {
+      "id": 927000719,
+      "file": "world/maps/Custommap/Custommap_3_2_obj1.adt"
+    },
+    {
+      "id": 927000720,
+      "file": "world/maps/Custommap/Custommap_3_2_tex0.adt"
+    },
+    {
+      "id": 927000721,
+      "file": "world/maps/Custommap/Custommap_3_3.adt"
+    },
+    {
+      "id": 927000722,
+      "file": "world/maps/Custommap/Custommap_3_3_obj0.adt"
+    },
+    {
+      "id": 927000723,
+      "file": "world/maps/Custommap/Custommap_3_3_obj1.adt"
+    },
+    {
+      "id": 927000724,
+      "file": "world/maps/Custommap/Custommap_3_3_tex0.adt"
+    },
+    {
+      "id": 927000725,
+      "file": "world/maps/Custommap/Custommap_3_4.adt"
+    },
+    {
+      "id": 927000726,
+      "file": "world/maps/Custommap/Custommap_3_4_obj0.adt"
+    },
+    {
+      "id": 927000727,
+      "file": "world/maps/Custommap/Custommap_3_4_obj1.adt"
+    },
+    {
+      "id": 927000728,
+      "file": "world/maps/Custommap/Custommap_3_4_tex0.adt"
+    },
+    {
+      "id": 927000729,
+      "file": "world/maps/Custommap/Custommap_3_5.adt"
+    },
+    {
+      "id": 927000730,
+      "file": "world/maps/Custommap/Custommap_3_5_obj0.adt"
+    },
+    {
+      "id": 927000731,
+      "file": "world/maps/Custommap/Custommap_3_5_obj1.adt"
+    },
+    {
+      "id": 927000732,
+      "file": "world/maps/Custommap/Custommap_3_5_tex0.adt"
+    },
+    {
+      "id": 927000733,
+      "file": "world/maps/Custommap/Custommap_4_2.adt"
+    },
+    {
+      "id": 927000734,
+      "file": "world/maps/Custommap/Custommap_4_2_obj0.adt"
+    },
+    {
+      "id": 927000735,
+      "file": "world/maps/Custommap/Custommap_4_2_obj1.adt"
+    },
+    {
+      "id": 927000736,
+      "file": "world/maps/Custommap/Custommap_4_2_tex0.adt"
+    },
+    {
+      "id": 927000737,
+      "file": "world/maps/Custommap/Custommap_4_3.adt"
+    },
+    {
+      "id": 927000738,
+      "file": "world/maps/Custommap/Custommap_4_3_obj0.adt"
+    },
+    {
+      "id": 927000739,
+      "file": "world/maps/Custommap/Custommap_4_3_obj1.adt"
+    },
+    {
+      "id": 927000740,
+      "file": "world/maps/Custommap/Custommap_4_3_tex0.adt"
+    },
+    {
+      "id": 927000741,
+      "file": "world/maps/Custommap/Custommap_4_4.adt"
+    },
+    {
+      "id": 927000742,
+      "file": "world/maps/Custommap/Custommap_4_4_obj0.adt"
+    },
+    {
+      "id": 927000743,
+      "file": "world/maps/Custommap/Custommap_4_4_obj1.adt"
+    },
+    {
+      "id": 927000744,
+      "file": "world/maps/Custommap/Custommap_4_4_tex0.adt"
+    },
+    {
+      "id": 927000745,
+      "file": "world/maps/Custommap/Custommap_4_5.adt"
+    },
+    {
+      "id": 927000746,
+      "file": "world/maps/Custommap/Custommap_4_5_obj0.adt"
+    },
+    {
+      "id": 927000747,
+      "file": "world/maps/Custommap/Custommap_4_5_obj1.adt"
+    },
+    {
+      "id": 927000748,
+      "file": "world/maps/Custommap/Custommap_4_5_tex0.adt"
+    },
+    {
+      "id": 927000749,
+      "file": "world/maps/Custommap/Custommap_5_2.adt"
+    },
+    {
+      "id": 927000750,
+      "file": "world/maps/Custommap/Custommap_5_2_obj0.adt"
+    },
+    {
+      "id": 927000751,
+      "file": "world/maps/Custommap/Custommap_5_2_obj1.adt"
+    },
+    {
+      "id": 927000752,
+      "file": "world/maps/Custommap/Custommap_5_2_tex0.adt"
+    },
+    {
+      "id": 927000753,
+      "file": "world/maps/Custommap/Custommap_5_3.adt"
+    },
+    {
+      "id": 927000754,
+      "file": "world/maps/Custommap/Custommap_5_3_obj0.adt"
+    },
+    {
+      "id": 927000755,
+      "file": "world/maps/Custommap/Custommap_5_3_obj1.adt"
+    },
+    {
+      "id": 927000756,
+      "file": "world/maps/Custommap/Custommap_5_3_tex0.adt"
+    },
+    {
+      "id": 927000757,
+      "file": "world/maps/Custommap/Custommap_5_4.adt"
+    },
+    {
+      "id": 927000758,
+      "file": "world/maps/Custommap/Custommap_5_4_obj0.adt"
+    },
+    {
+      "id": 927000759,
+      "file": "world/maps/Custommap/Custommap_5_4_obj1.adt"
+    },
+    {
+      "id": 927000760,
+      "file": "world/maps/Custommap/Custommap_5_4_tex0.adt"
+    },
+    {
+      "id": 16400,
+      "file": "world/maps/Custommap/Custommap_lgt.wdt"
+    },
+    {
+      "id": 927000761,
+      "file": "world/maps/Custommap/Custommap_0_1.adt"
+    },
+    {
+      "id": 927000762,
+      "file": "world/maps/Custommap/Custommap_0_1_obj0.adt"
+    },
+    {
+      "id": 927000763,
+      "file": "world/maps/Custommap/Custommap_0_1_obj1.adt"
+    },
+    {
+      "id": 927000764,
+      "file": "world/maps/Custommap/Custommap_0_1_tex0.adt"
+    },
+    {
+      "id": 927000765,
+      "file": "world/maps/Custommap/Custommap_0_2.adt"
+    },
+    {
+      "id": 927000766,
+      "file": "world/maps/Custommap/Custommap_0_2_obj0.adt"
+    },
+    {
+      "id": 927000767,
+      "file": "world/maps/Custommap/Custommap_0_2_obj1.adt"
+    },
+    {
+      "id": 927000768,
+      "file": "world/maps/Custommap/Custommap_0_2_tex0.adt"
+    },
+    {
+      "id": 927000769,
+      "file": "world/maps/Custommap/Custommap_0_3.adt"
+    },
+    {
+      "id": 927000770,
+      "file": "world/maps/Custommap/Custommap_0_3_obj0.adt"
+    },
+    {
+      "id": 927000771,
+      "file": "world/maps/Custommap/Custommap_0_3_obj1.adt"
+    },
+    {
+      "id": 927000772,
+      "file": "world/maps/Custommap/Custommap_0_3_tex0.adt"
+    },
+    {
+      "id": 927000773,
+      "file": "world/maps/Custommap/Custommap_0_4.adt"
+    },
+    {
+      "id": 927000774,
+      "file": "world/maps/Custommap/Custommap_0_4_obj0.adt"
+    },
+    {
+      "id": 927000775,
+      "file": "world/maps/Custommap/Custommap_0_4_obj1.adt"
+    },
+    {
+      "id": 927000776,
+      "file": "world/maps/Custommap/Custommap_0_4_tex0.adt"
+    },
+    {
+      "id": 927000777,
+      "file": "world/maps/Custommap/Custommap_0_5.adt"
+    },
+    {
+      "id": 927000778,
+      "file": "world/maps/Custommap/Custommap_0_5_obj0.adt"
+    },
+    {
+      "id": 927000779,
+      "file": "world/maps/Custommap/Custommap_0_5_obj1.adt"
+    },
+    {
+      "id": 927000780,
+      "file": "world/maps/Custommap/Custommap_0_5_tex0.adt"
+    },
+    {
+      "id": 927000781,
+      "file": "world/maps/Custommap/Custommap_1_0.adt"
+    },
+    {
+      "id": 927000782,
+      "file": "world/maps/Custommap/Custommap_1_0_obj0.adt"
+    },
+    {
+      "id": 927000783,
+      "file": "world/maps/Custommap/Custommap_1_0_obj1.adt"
+    },
+    {
+      "id": 927000784,
+      "file": "world/maps/Custommap/Custommap_1_0_tex0.adt"
+    },
+    {
+      "id": 927000785,
+      "file": "world/maps/Custommap/Custommap_1_1.adt"
+    },
+    {
+      "id": 927000786,
+      "file": "world/maps/Custommap/Custommap_1_1_obj0.adt"
+    },
+    {
+      "id": 927000787,
+      "file": "world/maps/Custommap/Custommap_1_1_obj1.adt"
+    },
+    {
+      "id": 927000788,
+      "file": "world/maps/Custommap/Custommap_1_1_tex0.adt"
+    },
+    {
+      "id": 927000789,
+      "file": "world/maps/Custommap/Custommap_1_2.adt"
+    },
+    {
+      "id": 927000790,
+      "file": "world/maps/Custommap/Custommap_1_2_obj0.adt"
+    },
+    {
+      "id": 927000791,
+      "file": "world/maps/Custommap/Custommap_1_2_obj1.adt"
+    },
+    {
+      "id": 927000792,
+      "file": "world/maps/Custommap/Custommap_1_2_tex0.adt"
+    },
+    {
+      "id": 927000793,
+      "file": "world/maps/Custommap/Custommap_1_3.adt"
+    },
+    {
+      "id": 927000794,
+      "file": "world/maps/Custommap/Custommap_1_3_obj0.adt"
+    },
+    {
+      "id": 927000795,
+      "file": "world/maps/Custommap/Custommap_1_3_obj1.adt"
+    },
+    {
+      "id": 927000796,
+      "file": "world/maps/Custommap/Custommap_1_3_tex0.adt"
+    },
+    {
+      "id": 927000797,
+      "file": "world/maps/Custommap/Custommap_1_4.adt"
+    },
+    {
+      "id": 927000798,
+      "file": "world/maps/Custommap/Custommap_1_4_obj0.adt"
+    },
+    {
+      "id": 927000799,
+      "file": "world/maps/Custommap/Custommap_1_4_obj1.adt"
+    },
+    {
+      "id": 927000800,
+      "file": "world/maps/Custommap/Custommap_1_4_tex0.adt"
+    },
+    {
+      "id": 927000801,
+      "file": "world/maps/Custommap/Custommap_1_5.adt"
+    },
+    {
+      "id": 927000802,
+      "file": "world/maps/Custommap/Custommap_1_5_obj0.adt"
+    },
+    {
+      "id": 927000803,
+      "file": "world/maps/Custommap/Custommap_1_5_obj1.adt"
+    },
+    {
+      "id": 927000804,
+      "file": "world/maps/Custommap/Custommap_1_5_tex0.adt"
+    },
+    {
+      "id": 927000805,
+      "file": "world/maps/Custommap/Custommap_2_0.adt"
+    },
+    {
+      "id": 927000806,
+      "file": "world/maps/Custommap/Custommap_2_0_obj0.adt"
+    },
+    {
+      "id": 927000807,
+      "file": "world/maps/Custommap/Custommap_2_0_obj1.adt"
+    },
+    {
+      "id": 927000808,
+      "file": "world/maps/Custommap/Custommap_2_0_tex0.adt"
+    },
+    {
+      "id": 927000809,
+      "file": "world/maps/Custommap/Custommap_2_1.adt"
+    },
+    {
+      "id": 927000810,
+      "file": "world/maps/Custommap/Custommap_2_1_obj0.adt"
+    },
+    {
+      "id": 927000811,
+      "file": "world/maps/Custommap/Custommap_2_1_obj1.adt"
+    },
+    {
+      "id": 927000812,
+      "file": "world/maps/Custommap/Custommap_2_1_tex0.adt"
+    },
+    {
+      "id": 927000813,
+      "file": "world/maps/Custommap/Custommap_2_5.adt"
+    },
+    {
+      "id": 927000814,
+      "file": "world/maps/Custommap/Custommap_2_5_obj0.adt"
+    },
+    {
+      "id": 927000815,
+      "file": "world/maps/Custommap/Custommap_2_5_obj1.adt"
+    },
+    {
+      "id": 927000816,
+      "file": "world/maps/Custommap/Custommap_2_5_tex0.adt"
+    },
+    {
+      "id": 927000817,
+      "file": "world/maps/Custommap/Custommap_3_0.adt"
+    },
+    {
+      "id": 927000818,
+      "file": "world/maps/Custommap/Custommap_3_0_obj0.adt"
+    },
+    {
+      "id": 927000819,
+      "file": "world/maps/Custommap/Custommap_3_0_obj1.adt"
+    },
+    {
+      "id": 927000820,
+      "file": "world/maps/Custommap/Custommap_3_0_tex0.adt"
+    },
+    {
+      "id": 927000821,
+      "file": "world/maps/Custommap/Custommap_3_1.adt"
+    },
+    {
+      "id": 927000822,
+      "file": "world/maps/Custommap/Custommap_3_1_obj0.adt"
+    },
+    {
+      "id": 927000823,
+      "file": "world/maps/Custommap/Custommap_3_1_obj1.adt"
+    },
+    {
+      "id": 927000824,
+      "file": "world/maps/Custommap/Custommap_3_1_tex0.adt"
+    },
+    {
+      "id": 927000825,
+      "file": "world/maps/Custommap/Custommap_4_0.adt"
+    },
+    {
+      "id": 927000826,
+      "file": "world/maps/Custommap/Custommap_4_0_obj0.adt"
+    },
+    {
+      "id": 927000827,
+      "file": "world/maps/Custommap/Custommap_4_0_obj1.adt"
+    },
+    {
+      "id": 927000828,
+      "file": "world/maps/Custommap/Custommap_4_0_tex0.adt"
+    },
+    {
+      "id": 927000829,
+      "file": "world/maps/Custommap/Custommap_4_1.adt"
+    },
+    {
+      "id": 927000830,
+      "file": "world/maps/Custommap/Custommap_4_1_obj0.adt"
+    },
+    {
+      "id": 927000831,
+      "file": "world/maps/Custommap/Custommap_4_1_obj1.adt"
+    },
+    {
+      "id": 927000832,
+      "file": "world/maps/Custommap/Custommap_4_1_tex0.adt"
+    },
+    {
+      "id": 927000833,
+      "file": "world/maps/Custommap/Custommap_5_0.adt"
+    },
+    {
+      "id": 927000834,
+      "file": "world/maps/Custommap/Custommap_5_0_obj0.adt"
+    },
+    {
+      "id": 927000835,
+      "file": "world/maps/Custommap/Custommap_5_0_obj1.adt"
+    },
+    {
+      "id": 927000836,
+      "file": "world/maps/Custommap/Custommap_5_0_tex0.adt"
+    },
+    {
+      "id": 927000837,
+      "file": "world/maps/Custommap/Custommap_5_1.adt"
+    },
+    {
+      "id": 927000838,
+      "file": "world/maps/Custommap/Custommap_5_1_obj0.adt"
+    },
+    {
+      "id": 927000839,
+      "file": "world/maps/Custommap/Custommap_5_1_obj1.adt"
+    },
+    {
+      "id": 927000840,
+      "file": "world/maps/Custommap/Custommap_5_1_tex0.adt"
+    },
+    {
+      "id": 927000841,
+      "file": "world/maps/Custommap/Custommap_5_5.adt"
+    },
+    {
+      "id": 927000842,
+      "file": "world/maps/Custommap/Custommap_5_5_obj0.adt"
+    },
+    {
+      "id": 927000843,
+      "file": "world/maps/Custommap/Custommap_5_5_obj1.adt"
+    },
+    {
+      "id": 927000844,
+      "file": "world/maps/Custommap/Custommap_5_5_tex0.adt"
+    },
+    {
+      "id": 927000845,
+      "file": "world/maps/Custommap/Custommap_0_6.adt"
+    },
+    {
+      "id": 927000846,
+      "file": "world/maps/Custommap/Custommap_0_6_obj0.adt"
+    },
+    {
+      "id": 927000847,
+      "file": "world/maps/Custommap/Custommap_0_6_obj1.adt"
+    },
+    {
+      "id": 927000848,
+      "file": "world/maps/Custommap/Custommap_0_6_tex0.adt"
+    },
+    {
+      "id": 927000849,
+      "file": "world/maps/Custommap/Custommap_1_6.adt"
+    },
+    {
+      "id": 927000850,
+      "file": "world/maps/Custommap/Custommap_1_6_obj0.adt"
+    },
+    {
+      "id": 927000851,
+      "file": "world/maps/Custommap/Custommap_1_6_obj1.adt"
+    },
+    {
+      "id": 927000852,
+      "file": "world/maps/Custommap/Custommap_1_6_tex0.adt"
+    },
+    {
+      "id": 927000853,
+      "file": "world/maps/Custommap/Custommap_2_6.adt"
+    },
+    {
+      "id": 927000854,
+      "file": "world/maps/Custommap/Custommap_2_6_obj0.adt"
+    },
+    {
+      "id": 927000855,
+      "file": "world/maps/Custommap/Custommap_2_6_obj1.adt"
+    },
+    {
+      "id": 927000856,
+      "file": "world/maps/Custommap/Custommap_2_6_tex0.adt"
+    },
+    {
+      "id": 927000857,
+      "file": "world/maps/Custommap/Custommap_3_6.adt"
+    },
+    {
+      "id": 927000858,
+      "file": "world/maps/Custommap/Custommap_3_6_obj0.adt"
+    },
+    {
+      "id": 927000859,
+      "file": "world/maps/Custommap/Custommap_3_6_obj1.adt"
+    },
+    {
+      "id": 927000860,
+      "file": "world/maps/Custommap/Custommap_3_6_tex0.adt"
+    },
+    {
+      "id": 927000861,
+      "file": "world/maps/Custommap/Custommap_4_6.adt"
+    },
+    {
+      "id": 927000862,
+      "file": "world/maps/Custommap/Custommap_4_6_obj0.adt"
+    },
+    {
+      "id": 927000863,
+      "file": "world/maps/Custommap/Custommap_4_6_obj1.adt"
+    },
+    {
+      "id": 927000864,
+      "file": "world/maps/Custommap/Custommap_4_6_tex0.adt"
+    },
+    {
+      "id": 927000865,
+      "file": "world/maps/Custommap/Custommap_6_1.adt"
+    },
+    {
+      "id": 927000866,
+      "file": "world/maps/Custommap/Custommap_6_1_obj0.adt"
+    },
+    {
+      "id": 927000867,
+      "file": "world/maps/Custommap/Custommap_6_1_obj1.adt"
+    },
+    {
+      "id": 927000868,
+      "file": "world/maps/Custommap/Custommap_6_1_tex0.adt"
+    },
+    {
+      "id": 927000869,
+      "file": "world/maps/Custommap/Custommap_6_2.adt"
+    },
+    {
+      "id": 927000870,
+      "file": "world/maps/Custommap/Custommap_6_2_obj0.adt"
+    },
+    {
+      "id": 927000871,
+      "file": "world/maps/Custommap/Custommap_6_2_obj1.adt"
+    },
+    {
+      "id": 927000872,
+      "file": "world/maps/Custommap/Custommap_6_2_tex0.adt"
+    },
+    {
+      "id": 927000873,
+      "file": "world/maps/Custommap/Custommap_6_3.adt"
+    },
+    {
+      "id": 927000874,
+      "file": "world/maps/Custommap/Custommap_6_3_obj0.adt"
+    },
+    {
+      "id": 927000875,
+      "file": "world/maps/Custommap/Custommap_6_3_obj1.adt"
+    },
+    {
+      "id": 927000876,
+      "file": "world/maps/Custommap/Custommap_6_3_tex0.adt"
+    },
+    {
+      "id": 927000877,
+      "file": "world/maps/Custommap/Custommap_6_4.adt"
+    },
+    {
+      "id": 927000878,
+      "file": "world/maps/Custommap/Custommap_6_4_obj0.adt"
+    },
+    {
+      "id": 927000879,
+      "file": "world/maps/Custommap/Custommap_6_4_obj1.adt"
+    },
+    {
+      "id": 927000880,
+      "file": "world/maps/Custommap/Custommap_6_4_tex0.adt"
+    },
+    {
+      "id": 927000881,
+      "file": "world/maps/Custommap/Custommap_6_5.adt"
+    },
+    {
+      "id": 927000882,
+      "file": "world/maps/Custommap/Custommap_6_5_obj0.adt"
+    },
+    {
+      "id": 927000883,
+      "file": "world/maps/Custommap/Custommap_6_5_obj1.adt"
+    },
+    {
+      "id": 927000884,
+      "file": "world/maps/Custommap/Custommap_6_5_tex0.adt"
+    },
+    {
+      "id": 927000885,
+      "file": "world/maps/Custommap/Custommap_5_6.adt"
+    },
+    {
+      "id": 927000886,
+      "file": "world/maps/Custommap/Custommap_5_6_obj0.adt"
+    },
+    {
+      "id": 927000887,
+      "file": "world/maps/Custommap/Custommap_5_6_obj1.adt"
+    },
+    {
+      "id": 927000888,
+      "file": "world/maps/Custommap/Custommap_5_6_tex0.adt"
+    },
+    {
+      "id": 927000889,
+      "file": "world/maps/Custommap/Custommap_6_0.adt"
+    },
+    {
+      "id": 927000890,
+      "file": "world/maps/Custommap/Custommap_6_0_obj0.adt"
+    },
+    {
+      "id": 927000891,
+      "file": "world/maps/Custommap/Custommap_6_0_obj1.adt"
+    },
+    {
+      "id": 927000892,
+      "file": "world/maps/Custommap/Custommap_6_0_tex0.adt"
+    },
+    {
+      "id": 927000893,
+      "file": "world/maps/Custommap/Custommap_6_6.adt"
+    },
+    {
+      "id": 927000894,
+      "file": "world/maps/Custommap/Custommap_6_6_obj0.adt"
+    },
+    {
+      "id": 927000895,
+      "file": "world/maps/Custommap/Custommap_6_6_obj1.adt"
+    },
+    {
+      "id": 927000896,
+      "file": "world/maps/Custommap/Custommap_6_6_tex0.adt"
+    },
+    {
+      "id": 927000897,
+      "file": "world/maps/Custommap/Custommap_0_0.adt"
+    },
+    {
+      "id": 927000898,
+      "file": "world/maps/Custommap/Custommap_0_0_obj0.adt"
+    },
+    {
+      "id": 927000899,
+      "file": "world/maps/Custommap/Custommap_0_0_obj1.adt"
+    },
+    {
+      "id": 927000900,
+      "file": "world/maps/Custommap/Custommap_0_0_tex0.adt"
+    }
+  ]
+}
