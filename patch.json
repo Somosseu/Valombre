@@ -1,6 +1,6 @@
 {
   "name": "Custommap",
-  "version": "MU-8",
+  "version": "MU-9",
   "url": null,
   "files": [
     {
@@ -1368,10 +1368,6 @@
       "file": ".git/objects/fe/ce3bd936a7c828c45e9ba89424ab75078a1519"
     },
     {
-      "id": 927001043,
-      "file": "PULL.bat"
-    },
-    {
       "id": 927001044,
       "file": ".git/objects/14/2947ff8aaac1dd4e36dcda537afac86f0b8964"
     },
@@ -1406,6 +1402,38 @@
     {
       "id": 927001052,
       "file": ".git/objects/ca/18a51bdf0ba83936cab00747f3e4301d1326e3"
+    },
+    {
+      "id": 927001053,
+      "file": ".git/objects/05/b1d8199e2d1cd7e3fa491291981abaf52b578c"
+    },
+    {
+      "id": 927001054,
+      "file": ".git/objects/0d/1c03496f570b9324c50a73934afe4fdfc693f2"
+    },
+    {
+      "id": 927001055,
+      "file": ".git/objects/50/74d61466a5cc342d2bd8918ad8aa23af19e26d"
+    },
+    {
+      "id": 927001056,
+      "file": ".git/objects/86/7880ad1e08869ab7a21340f693bea69219d308"
+    },
+    {
+      "id": 927001057,
+      "file": ".git/objects/8f/70a282ef9c523c483b172cbcb74afd8dbc18be"
+    },
+    {
+      "id": 927001058,
+      "file": ".git/objects/bb/c0af0fad959222a5150b9ee604aaada362c632"
+    },
+    {
+      "id": 927001059,
+      "file": ".git/objects/ed/937ddfd19574ab8067a4b70fadff0d04876a84"
+    },
+    {
+      "id": 927001060,
+      "file": ".git/objects/fb/bb788403df4ae37d067d17ad9b581f074b1d73"
     }
   ]
 }
